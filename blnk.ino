@@ -1,6 +1,6 @@
 void setup() {
   pinMode(9, INPUT);
-  pinMode(4, OUTPUT);
+  pinMode(8, OUTPUT);
 
 }
 int i = 0;
